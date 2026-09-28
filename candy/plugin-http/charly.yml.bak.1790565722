@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-http:
     candy:
+        version: 2026.176.2200
         description: |-
             The `http` check verb relocated into a candy: an HTTP request matched
             against status / body / headers — issued from the charly host's network
